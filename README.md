@@ -28,7 +28,7 @@ The project focuses on the world’s top companies, including **Apple, Microsoft
 - Verified hypotheses on stock behavior, including variability and correlation with market trends  
 
 **Predictive Modeling & Forecasting:**  
-The final part of the project uses a Python script (`final-project.py`) to forecast stock prices based on user-input year and month. The process includes:  
+The final part of the project uses a Python script to forecast stock prices based on user-input year and month. The process includes:  
 1. **Data Loading:** Load historical stock data from CSV files, including dates, stock symbols, and adjusted close prices (`adj_close`)  
 2. **Data Preparation:** Convert date columns to a workable format and structure the data for forecasting  
 3. **Model Training:** Train a **Prophet forecasting model** for each selected stock  
